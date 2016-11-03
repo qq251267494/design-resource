@@ -1,55 +1,58 @@
 <body>
 <h1>设计网站 推荐</h1>
 <p>
-http://ad110.com/
-http://alistapart.com/articles
-https://www.smashingmagazine.com/
-http://abduzeedo.com/
-http://www.fromupnorth.com/
-http://www.ogdesign.tw/
-http://www.thefwa.com/
-http://www.uigreat.com/page/guifan
-http://365awesomedesigners.com/
-http://www.artua.com/ 重质感UI公司
-http://www.cartelle.nl/work/adidas-denim
-http://cargocollective.com/featured
-http://www.cartelle.nl/work/adidas-denim
-http://bm.straightline.jp/
+http://ad110.com/<br />
+http://alistapart.com/articles<br />
+https://www.smashingmagazine.com/<br />
+http://abduzeedo.com/<br />
+http://www.fromupnorth.com/<br />
+http://www.ogdesign.tw/<br />
+http://www.thefwa.com/<br />
+http://www.uigreat.com/page/guifan<br />
+http://365awesomedesigners.com/<br />
+http://www.artua.com/ 重质感UI公司<br />
+http://www.cartelle.nl/work/adidas-denim<br />
+http://cargocollective.com/featured<br />
+http://www.cartelle.nl/work/adidas-denim<br />
+http://bm.straightline.jp/<br />
 </p>
 
-网站学习
-http://wf.uisdc.com/cn/layouts/rwd-fundamentals/
-http://zh.learnlayout.com/display.html
-萌码
+<h1>网站学习</h1>
+http://wf.uisdc.com/cn/layouts/rwd-fundamentals/<br />
+http://zh.learnlayout.com/display.html<br />
+萌码<br />
 
-UI Pattern（ui界面搜素）
-http://pttrns.com/
-http://www.mobile-patterns.com/
+<h1>UI Pattern（ui界面搜素）</h1>
+http://pttrns.com/<br />
+http://www.mobile-patterns.com/<br />
 
-自动化标注
-http://www.biaonimeia.com/
+<h1>自动化标注</h1>
+http://www.biaonimeia.com/<br />
 
 
-免费的psd
-psdrepo.com
-https://iconstore.co/
+<h1>免费的psd</h1>
+psdrepo.com<br />
+https://iconstore.co/<br />
 
-收费的设计资源网站
-creativemarket.com
+<h1>收费的设计资源网站</h1>
+creativemarket.com<br />
 
-icon
-https://thenounproject.com/
-https://iconstore.co/
+<h1>icon</h1>
+https://thenounproject.com/<br />
+https://iconstore.co/<br />
 
-iconsize 各个logo的尺寸
-https://makeappicon.com
+<h1>iconsize</h1>
+https://makeappicon.com<br />
 
-免费图片
-https://visualhunt.com/
-http://cc0photo.com/?ckattempt=2
+<h1>免费图片</h1> 
+https://visualhunt.com/<br />
+http://cc0photo.com/?ckattempt=2<br />
 
-扒视频
-http://www.clipconverter.cc/
-http://en.savefrom.net/
+<h1>扒视频</h1>
+http://www.clipconverter.cc/<br />
+http://en.savefrom.net/<br />
 
 </body>
+<footer>
+<p><small>&copy;leslie_lin</small></p>
+</footer>
