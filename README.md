@@ -71,5 +71,5 @@ http://en.savefrom.net/<br />
 
 </body>
 <footer>
-<p><small>&copy;-&copy;leslie_lin</small></p>
+<p><b>&copy;-&copy;leslie_lin</b></p>
 </footer>
