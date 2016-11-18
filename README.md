@@ -24,6 +24,11 @@ http://zh.learnlayout.com/display.html<br />
 萌码<br />
 </blockquote>
 
+<h1>ui界面色彩提取</h1>
+<blockquote>
+http://color.farm/<br />
+</blockquote>
+
 <h1>UI Pattern（ui界面搜素）</h1>
 <blockquote>
 http://pttrns.com/<br />
